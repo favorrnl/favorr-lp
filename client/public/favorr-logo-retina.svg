@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2880" height="1800" viewBox="0 0 2880 1800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- MacBook Pro 15" Retina resolution background -->
+  <rect width="2880" height="1800" fill="black"/>
+  
+  <!-- Define the text style that matches your screenshot -->
+  <defs>
+    <style>
+      .logo-text {
+        font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-weight: 900;
+        letter-spacing: -0.03em;
+      }
+    </style>
+  </defs>
+  
+  <!-- Center the logo on the screen -->
+  <g transform="translate(1440, 900)">
+    <!-- Favor text in white -->
+    <text x="-260" y="35" class="logo-text" font-size="140" fill="white" text-anchor="middle" dominant-baseline="central">Favor</text>
+    
+    <!-- r in cream -->
+    <text x="130" y="35" class="logo-text" font-size="140" fill="#F4E3C1" text-anchor="middle" dominant-baseline="central">r</text>
+  </g>
+</svg>

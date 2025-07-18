@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background (transparent) -->
+  <rect width="400" height="120" fill="transparent"/>
+  
+  <!-- Favor text in white -->
+  <text x="20" y="90" font-family="Arial, sans-serif" font-size="80" font-weight="900" fill="white" letter-spacing="-2px">Favor</text>
+  
+  <!-- r in orange -->
+  <text x="290" y="90" font-family="Arial, sans-serif" font-size="80" font-weight="900" fill="#FF6B35" letter-spacing="-2px">r</text>
+</svg>
